@@ -1,2 +1,2 @@
 # Sicily
-Learn and practice website structure
+Learn and practice website structure, learn Git.
