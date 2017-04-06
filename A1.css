@@ -1,0 +1,97 @@
+body {
+      max-width: 960px;
+      background-color: #f1f1f1;
+      height: 2500px;
+      margin: auto;
+}
+
+header {
+      max-width: 960px;
+      height: 100px;
+      background-color: #ffffff;
+      position: relative;
+
+
+}
+
+.main-top-container {
+      max-width: 940px;
+      height: 80px;
+      background-color:#252226;
+      margin: auto;
+      position: relative;
+      top:10px;
+
+}
+
+.main-first-screen {
+      max-width: 960px;
+      height: 500px;
+      background-color: #ffffff;
+      margin: 0;
+      position:relative;
+      padding: 20px 0;
+}
+
+.mfs-cell {
+      max-width: 940px;
+      height: 460px;
+      background-color:	#dddddd;
+      margin: auto;
+      position:relative;
+
+}
+
+.mfc-cell-head-one {
+      max-width: 250px;
+      height:440px;
+      background-color: #ffffff;
+      margin: 0;
+      position:relative;
+      padding: 10px 0;
+      float: left;
+
+
+}
+
+.mfc-cell-head-one > p {
+    font-family: Timmana,sans-serif;
+    text-align: left;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+    line-height: 120%;
+    margin: 0;
+    position: relative;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+
+.mfs-cell-two {
+    max-width: 680px;
+    height:440px;
+    background-color: #ffffff;
+    margin: 0;
+    position:relative;
+    margin-left:260px;
+    padding: 10px 0px;
+    background-image: url("b3.jpg");
+
+}
+.mfs-cell-two > p {
+    font-family: VT323,sans-serif;
+    text-align: left;
+    font-size: 16px;
+    letter-spacing: 1.1px;
+    color: white;
+    margin: 0;
+    position: relative;
+
+}
+
+span {
+    background-color: black;
+    opacity: 0.8;
+}
